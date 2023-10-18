@@ -100,3 +100,31 @@ Looking through the data, there are noticeable differences in how members and ca
 ![end_station_map](https://github.com/KatherineeFlannery/Project1.md/assets/101511293/da4be19a-7ac7-4d1d-a527-0034c5d20ffd)
 
 The most popular stations for casual users were concentrated near tourist attractions such as the beach, children’s museum, millennium park, theater and aquarium. Member stations were further from the coast and near more offices, likely being used to commute for work. Looking at the usage by day of the week and user type we can see that the work week is the most popular time for members while they take longer but fewer rides on the weekend. 
+
+
+
+
+In contrast, casual users had the fewest rides during the week and the longest and greatest number of rides on the weekend. 
+
+
+
+
+Casual users average double the ride length of members with casual users averaging 26 minute rides and members averaging 13 minute rides.
+
+![Average_ridelength_usertype](https://github.com/KatherineeFlannery/Project1.md/assets/101511293/b25fc75d-09a9-4f51-92ba-f0ba4db6d51f)
+
+Weather appears to play a role in bike usage with rides dropping in winter months and peaking in the summer. Members take more trips than casual members except in June, July and August.
+
+![Number of Rides by Month](https://github.com/KatherineeFlannery/Project1.md/assets/101511293/66e44f46-8b38-4c5e-a768-0c5a5a5f8b46)
+
+Classic bikes are favored by both members and casual users, making up 60% of rides in each group.
+
+<img width="328" alt="Screenshot 2023-10-18 122106" src="https://github.com/KatherineeFlannery/Project1.md/assets/101511293/5b75fb15-9d29-43a6-976f-44b27342d9b0">
+
+## Recommendations
+My top three recommendations to maximize annual memberships:
+
+-- Since casual rider trips are longer than member riders, encourage them to sign up for a membership by charging a fee per minute of usage for casual rides to make the membership more appealing. 
+-- Create a tier membership program that offers different levels of memberships for visitors vs locals. 
+-- Advertise to casual users at the most popular start/end locations and offer incentives for signing up for a membership. 
+
